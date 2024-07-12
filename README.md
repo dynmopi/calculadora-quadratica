@@ -7,7 +7,7 @@
 
   ![image](https://github.com/user-attachments/assets/d919b249-5270-4a79-8d62-e866134ba899) &nbsp;![image](https://github.com/user-attachments/assets/f0ae1f83-d3d6-4828-9629-15c5c8b50e1d) &nbsp;![image](https://github.com/user-attachments/assets/c7f3ec97-ce95-4f57-aecf-e1c704715df4)
 
-- Com o cálculo do discriminante feito após digitar os valores das variáveis, o Software procura se encaixar em quais das condições o algoritmo se encontra, sendo delta igual a 0, delta maior que 0, ou delta menor que zero.
+- Com o cálculo do discriminante feito após digitar os valores das variáveis, o Software procurará se encaixar em quais das condições o algoritmo se encontra, sendo delta igual a 0, delta maior que 0, ou delta menor que zero.
 - Caso o valor do discriminante (Delta) seja maior que zero:
   
   ![image](https://github.com/user-attachments/assets/51bf1611-186a-4d3f-8aee-db6bac728b15) &nbsp; ![image](https://github.com/user-attachments/assets/12e544d5-a294-4056-9cdf-3c8504d40612)
